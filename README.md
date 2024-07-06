@@ -9,3 +9,15 @@ It renders a triangle.
 It uses vite.
 
 I had to encourage Gemini to get it working, but the other two worked immediately.
+
+# Get started
+
+1. clone the repo
+
+2. `cd` into one of the ai directories
+
+3. `npm install`
+
+4. `npm run dev`
+
+5. Open the browser at the specified localhost:port
